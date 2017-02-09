@@ -1,0 +1,5 @@
+// Place your settings in this file to overwrite default and user settings.
+{
+     "http.proxy": "http://famans:157fgm$@proxydc.amil.com.br:3128",
+    "http.proxyStrictSSL": false
+}
